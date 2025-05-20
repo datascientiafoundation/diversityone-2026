@@ -2,9 +2,4 @@
 title: Program
 ---
 
-<h1>TBD</h1>
-
-
-|Time|Session|
-|---|---|
-|||
+<h3>To be announced!</h3>

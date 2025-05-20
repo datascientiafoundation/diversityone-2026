@@ -54,7 +54,7 @@ not limited to:
     submit your work to the workshop. The full list of available
     datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
 
--   **June 8, 2025:** Abstract deadline. Link to submission platform _TBA_
+-   **June 8, 2025:** Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
 
 -   **June 15, 2025 23:59 AoE**: Submission deadline
 
@@ -76,6 +76,8 @@ not limited to:
 [**Dataset webpage**](https://datascientia.eu/projects/diversityone/) summarizes the key information about the data.
 
 [**Conference webpage UbiComp / ISWC 2025**](https://www.ubicomp.org/ubicomp-iswc-2025/)
+
+[**Submission website**](https://new.precisionconference.com/submissions), select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_.
 
 ## The dataset
 
