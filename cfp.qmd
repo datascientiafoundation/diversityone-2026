@@ -54,16 +54,16 @@ not limited to:
     submit your work to the workshop. The full list of available
     datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
 
--   **June 8, 2025:** Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
+-   ~~June 8, 2025~~ **July 1, 2025**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
 
--   **June 15, 2025 23:59 AoE**: Submission deadline
+-   ~~June 15~~ **July 4, 2025 (AoE)**:  Submission deadline
 
--   **June 29, 2025**: Author notification
+-   ~~June 29~~ **July 21, 2025**: Author notification
 
 -   **July 30, 2025**: Deadline for the camera-ready version of workshop
     papers to be included in the ACM DL
 
--   **October 12 or 13, 2015**: Full-day Workshop.
+-   (TBD) **October 12 or 13, 2015**: Full-day Workshop.
 
 ## Important links
 

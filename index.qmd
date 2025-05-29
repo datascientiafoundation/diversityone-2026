@@ -100,7 +100,8 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ## News
 
-- **May, 20, 2025** - The submission link is <https://new.precisionconference.com/submissions> (Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
+- **May 29, 2025** - Extended submission deadline: the new deadline is on _July 4, 2025 (AoE)_
+- **May 20, 2025** - The submission link is <https://new.precisionconference.com/submissions> (Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
 - **April 14, 2025** - We've just released on [Github](https://github.com/datascientiafoundation/feature-engineering) the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.
 - **April 3, 2025**  - The link to submit the research proposal to request the datasets is available at **[{{< var link.request >}}]({{< var link.request >}})**.
 - **March 28, 2025** - We will start receiving the dataset requests from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.
