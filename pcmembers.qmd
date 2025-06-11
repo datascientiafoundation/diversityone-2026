@@ -16,5 +16,6 @@ We are grateful to reviewers for their time and expertise in evaluating the work
 - **Luca Cernuzzi**, Universidad Católica Nuestra Señora de la Asunción, Paraguay
 - **Shyam Diwakar**, Amrita University, India
 - **Salvador Ruiz Correa**,  Instituto Potosino de Investigación Científica y Tecnológica A.C, Mexico
+- **Marcelo Dario Rodas Britez**, FBK, Italy
 - ...
 
