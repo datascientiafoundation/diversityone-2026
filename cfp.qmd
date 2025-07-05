@@ -56,7 +56,7 @@ not limited to:
 
 -   ~~June 8, 2025~~ **July 1, 2025**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
 
--   ~~June 15~~ **July 4, 2025 (AoE)**:  Submission deadline
+-   ~~June 15~~ ~~July 4, 2025 (AoE)~~ **July 8, 2025 (AoE)**^[Given the requests received, we extended the deadline by an additional four days]:  Submission deadline
 
 -   ~~June 29~~ **July 21, 2025**: Author notification
 
