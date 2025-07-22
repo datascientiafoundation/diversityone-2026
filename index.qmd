@@ -100,6 +100,7 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ## News
 
+- **Jul 22, 2025** - The [list of accepted papers](papers.qmd) is out.
 - **Jul 05, 2025** - Given the requests received, the submission deadline has been extended to **July 8, 2025 (AoE)**.
 - **May 29, 2025** - _Extended submission deadline_: the new deadline is on **July 4, 2025 (AoE)**.
 - **May 20, 2025** - The submission link is <https://new.precisionconference.com/submissions> (Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
