@@ -163,8 +163,8 @@ version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssu
     Please look at the available datasets and documentation. The catalog
     contains
 
-    -  basic _datasets_ (e.g., one single modality such as [accelerometer](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Trento-Accelerometer/) or [annotations for one university](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Amrita-Diachronic-Interactions/))
-    -  _dataset bundles_ of basic sensors (e.g., [motion sensors](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Copenhagen-Motion/) grouping accelerometer and step counter) split by data collection location.
+    -  basic _datasets_ (e.g., one single modality such as [accelerometer](https://datascientiafoundation.github.io/LivePeople/datasets/2020-DiversityOne-Trento-Accelerometer/) or [annotations for one university](https://datascientiafoundation.github.io/LivePeople/datasets/2020-DiversityOne-Amrita-Diachronic-Interactions/))
+    -  _dataset bundles_ of basic sensors (e.g., [motion sensors](https://datascientiafoundation.github.io/LivePeople/datasets/2020-DiversityOne-Copenhagen-Motion/) grouping accelerometer and step counter) split by data collection location.
     -  _projects_ grouping all data of one single university.
     
     Any composition of bundle, datasets and university project can be requested coherently with your research proposal.
