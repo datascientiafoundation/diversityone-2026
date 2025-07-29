@@ -85,7 +85,8 @@ The study followed ethical approval procedures in each of the participating inst
 - ...
 
 This challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. 
-A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**.
+A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**. The [workshop proposal](https://doi.org/10.5281/zenodo.16539804) is also available.
+
 
 <br/>
 
@@ -94,6 +95,8 @@ A selection of the accepted papers will be invited to submit an extended version
 ::: {style="text-align: center"}
   <a href="cfp.qmd" class="btn btn-secondary"> Call for papers</a>
 :::
+
+
 
 
 <br/>
