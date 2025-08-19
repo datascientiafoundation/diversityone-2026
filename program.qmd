@@ -1,6 +1,15 @@
 ---
-title: Program
+title: Tentative Program
 ---
 
-<h3>To be announced!</h3>
+**Date**: October 13, Monday  
+**Time**: from 1 pm to 4 pm  
+**Location**: room HH
 
+|Time|Event|
+|---|---|
+|13:00 - 13:10 | Opening and Welcome|
+|13:10 - 16:00 | Sessions |
+|16:00 | Closing remarks|
+
+: {.striped .hover}
