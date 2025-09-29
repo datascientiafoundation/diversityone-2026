@@ -103,6 +103,7 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ## News
 
+- **Sep, 29, 2025** - The workshop [program](program.qmd) is out.
 - **July 22, 2025** - The [list of accepted papers](papers.qmd) is out.
 - **July 05, 2025** - Given the requests received, the submission deadline has been extended to **July 8, 2025 (AoE)**.
 - **May 29, 2025** - _Extended submission deadline_: the new deadline is on **July 4, 2025 (AoE)**.
@@ -116,7 +117,7 @@ A selection of the accepted papers will be invited to submit an extended version
 
 For any questions related to the workshop or technical support regarding
 the datasets, please do not hesitate to reach out to the organizers at
-**datadistribution.knowdive \[at\] unitn.it**.
+**datadistribution \[dot\] knowdive \[at\] unitn.it**.
 
 <br/>
 
