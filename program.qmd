@@ -24,6 +24,8 @@ title: Program
 |16:45 - 17:15                    | Coffee break                                                                                                         |
 +---------------------------------+----------------------------------------------------------------------------------------------------------------------+
 |17:15 - 18:05                    | Keynote #2: [Prof. Özlem Durmaz Incel](https://ozlemdurmazincel.github.io/) - University of Twente                   |
+|                                 |                                                                                                                      |
+|                                 | Title: _From Sensing to System: Data Collection and Edge AI with Resource Constraints_                               |
 +---------------------------------+----------------------------------------------------------------------------------------------------------------------+
 |18:05 - 18:40                    | Discussion and brainstorming among attendees and workshop organizers                                                 |
 |                                 |                                                                                                                      |
