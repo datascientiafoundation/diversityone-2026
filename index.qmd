@@ -75,7 +75,7 @@ Key dataset statistics:
 
 The study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:
 
-- Data-centric AI & machine learning
+- data-centric AI & machine learning
 - mobile sensing & behavioral modeling
 - computational social science
 - cultural diversity in everyday life

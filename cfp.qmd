@@ -133,7 +133,7 @@ participation.
 
 The authors of the accepted paper will be invited to present their work
 during the workshop. The presentation timing will be defined based on
-the number of submissions (tentatively, the presentation will be between
+the number of submissions (tentatively, the presentation will be around
 10 minutes, with 5 minutes for Q/A and discussion, in which we encourage
 participants to exchange ideas and approaches). The final timing will be
 communicated before the workshop.
