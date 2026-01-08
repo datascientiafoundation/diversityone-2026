@@ -3,7 +3,7 @@ title: Accepted papers
 ---
 
 
-1. **Blue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States**
+1. **Blue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States** ([Paper](https://dl.acm.org/doi/10.1145/3714394.3756182))
 	
 
     Nouran Abdalazim, Giovanni De Felice, Leonardo Alchieri, Lidia Alecci, Silvia Santini  
@@ -12,7 +12,7 @@ title: Accepted papers
 
     _Abstract_: Mood plays a critical role in shaping cognition, memory, and well-being. While it is generally stable, it evolves gradually over time, “emotion inertia” phenomenon. Mood is also influenced by contextual factors, e.g, time, day, place, activity, and social context. In this study, we leverage the unique opportunity provided by the longitudinal and rich DiversityOne dataset, which includes self-reported mood and contextual information alongside smartphone sensor data collected over four weeks from 782 users across eight countries. We investigate temporal mood patterns and their associations with contextual information.  Our experimental results provide quantitative evidence for the presence of the emotion inertia. Also, our findings confirm that the associations between mood and contextual factors, e.g., mood tends to be high around periods associated with meals (“Happy Meals”), and lower at the beginning of the week (“Blue Mondays”). Nevertheless, we observe cross-cultural variability in such associations. Finally, we show that integrating contextual features with mobility metrics derived from location sensor significantly enhances mood recognition performance w.r.t. using either feature set alone by up to six percentage points and achieving 74% balanced accuracy. These results highlight the promise of context-aware, passive sensing systems for end-to-end mood recognition with minimal reliance on self-reports.
 
-2. **MakOne: Behavioural Data of University Students’ Smart Devices in Uganda**
+2. **MakOne: Behavioural Data of University Students’ Smart Devices in Uganda** ([Paper](https://dl.acm.org/doi/10.1145/3714394.3756183))
     
 
     Michael Kizito$^1$, Ivan Kayongo$^2$, Hawa Nyende$^1$, Halimu Chongomweru$^1$, Lillian Muyama$^1$, Roy Alia Asiku$^2$, Alice Mugisha$^1$

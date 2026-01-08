@@ -103,6 +103,7 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ## News
 
+- **Dec, 29, 2025** - The [papers](papers.qmd) have been published in the UbiComp Companion.
 - **Sep, 29, 2025** - The workshop [program](program.qmd) is out.
 - **July 22, 2025** - The [list of accepted papers](papers.qmd) is out.
 - **July 05, 2025** - Given the requests received, the submission deadline has been extended to **July 8, 2025 (AoE)**.
