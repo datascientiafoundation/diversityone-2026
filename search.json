@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "TBD\n\n\n\n Back to top"
-  },
-  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Accepted papers",
@@ -14,32 +7,18 @@
     "text": "TBA\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "D1 @ UbiComp 2026",
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
     "section": "",
-    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research."
+    "text": "TBD\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
-    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
-    "title": "D1 @ UbiComp 2026",
-    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2026",
-    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2026\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "D1 @ UbiComp 2026",
-    "section": "News",
-    "text": "News\n\nMarch 30, 2026 - This website is live."
-  },
-  {
-    "objectID": "index.html#contacts",
-    "href": "index.html#contacts",
-    "title": "D1 @ UbiComp 2026",
-    "section": "Contacts",
-    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution [dot] knowdive [at] unitn.it."
+    "objectID": "pcmembers.html",
+    "href": "pcmembers.html",
+    "title": "Program Committee",
+    "section": "",
+    "text": "TBD\n\n\n\n Back to top"
   },
   {
     "objectID": "cfp.html",
@@ -126,6 +105,34 @@
     "text": "Footnotes\n\n\nThe data requests will be received starting from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.↩︎\nGiven the requests received, we extended the deadline by an additional four days↩︎"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "D1 @ UbiComp 2026",
+    "section": "",
+    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research."
+  },
+  {
+    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
+    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
+    "title": "D1 @ UbiComp 2026",
+    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2026",
+    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2026\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "D1 @ UbiComp 2026",
+    "section": "News",
+    "text": "News\n\nMarch 30, 2026 - This website is live."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "D1 @ UbiComp 2026",
+    "section": "Contacts",
+    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution [dot] knowdive [at] unitn.it."
+  },
+  {
     "objectID": "organizers.html",
     "href": "organizers.html",
     "title": "D1 @ UbiComp 2026",
@@ -145,12 +152,5 @@
     "title": "D1 @ UbiComp 2026",
     "section": "Technical Support",
     "text": "Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
-  },
-  {
-    "objectID": "pcmembers.html",
-    "href": "pcmembers.html",
-    "title": "Program Committee",
-    "section": "",
-    "text": "TBD\n\n\n\n Back to top"
   }
 ]
