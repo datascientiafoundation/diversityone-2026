@@ -9,7 +9,7 @@ include-in-header:
       </style>
 ---
 
-## Organizing Committee
+## Program chairs
 
 ::: {.grid}
 
@@ -23,6 +23,23 @@ include-in-header:
 
 Andrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.
 :::
+
+::: {.g-col-3}
+![](https://ozlemdurmazincel.github.io/images/profileozlem.png)
+::: 
+
+::: {.g-col-8}
+[**Özlem Durmaz Incel**](https://ozlemdurmazincel.github.io/) <br/>
+*University of Twente*
+
+
+:::
+
+:::
+
+## Steering committee
+
+::: {.grid}
 
 ::: {.g-col-3}
 ![](img/matteo.png)
@@ -46,10 +63,6 @@ Matteo Busso holds a Master's in Sociology and a PhD in Computer Science from th
 Lakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.
 :::
 
-::: {.g-col-3}
-![](img/amalia.jpg)
-:::
-
 
 ::: {.g-col-3}
 ![](img/fausto.png)
@@ -60,6 +73,16 @@ Lakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his P
 *University of Trento*
 
 Fausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.
+:::
+
+::: {.g-col-3}
+![](https://fsalim.github.io/images/Flora_profile.jpg)
+:::
+
+::: {.g-col-8}
+[**Flora Salim**](https://fsalim.github.io/) <br/>
+*UNSW Sydney*
+
 :::
 
 ::: {.g-col-3}
@@ -86,14 +109,4 @@ Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor
 ::: {.g-col-8}
 [**Ali Hamza**](https://ds.datascientia.eu/community/public/profile/U2FsdGVkX19%252FH6GODRZZI3dWoj2u74zF26zQyYAO9TTFNKcCpRBTOTLc0m8oQvht) <br/>
 *University of Trento*
-:::
-
-::: {.g-col-3}
-![](img/mugi.jpg)
-:::
-
-::: {.g-col-8}
-[**Munkhdelger Bayanjargal**](http://www.linkedin.com/in/munkhdelger-bayanjargal-b2467a251) <br/>
-*University of Trento*
-:::
 :::

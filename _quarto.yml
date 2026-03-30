@@ -14,8 +14,8 @@ website:
         text: Home
       # - href: cfp.qmd
       #   text: Call for Papers
-      # - href: organizers.qmd
-      #   text: Organizers
+      - href: organizers.qmd
+        text: Organizers
       # - href: pcmembers.qmd
       #   text: Program Committee
       # - href: program.qmd
