@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "TBD\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Accepted papers",
+    "section": "",
+    "text": "TBA\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "D1 @ UbiComp 2026",
+    "section": "",
+    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research."
+  },
+  {
+    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
+    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2026",
+    "title": "D1 @ UbiComp 2026",
+    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2026",
+    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2026\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "D1 @ UbiComp 2026",
+    "section": "News",
+    "text": "News\n\nMarch 30, 2026 - This website is live."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "D1 @ UbiComp 2026",
+    "section": "Contacts",
+    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution [dot] knowdive [at] unitn.it."
+  },
+  {
+    "objectID": "cfp.html",
+    "href": "cfp.html",
+    "title": "Call for Papers",
+    "section": "",
+    "text": "The open challenge aims to explore the DiversityOne dataset, one of the largest and most geographically diverse smartphone datasets about everyday life behavior. The dataset combines questionnaires about demographic and psychosocial variables from 18K participants, and passive smartphone sensor data and self-reported annotation from 782 students across eight universities in eight countries.\nThis dataset is a rich and valuable research resource that can be used to address research questions in multiple fields: machine learning, mobile sensing, computational social science, design with data, and many others. The open challenge offers the opportunity to work on the dataset and gain useful feedback on your research.\nWe welcome contributions from researchers from diverse backgrounds and geographical provenances. In particular, we welcome contributions that address aspects including, but not limited to:"
+  },
+  {
+    "objectID": "cfp.html#important-dates",
+    "href": "cfp.html#important-dates",
+    "title": "Call for Papers",
+    "section": "Important dates",
+    "text": "Important dates\n\nFrom March 28, 2025 April 3, 20251: Submit your research proposal using the web form and request the datasets that you need to answer your research questions. Please specify that you are requesting the dataset to submit your work to the workshop. The full list of available datasets and documentation is accessible on the data catalog.\nJune 8, 2025 July 1, 2025: Abstract deadline. Submission platform: https://new.precisionconference.com/submissions, select Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge).\nJune 15 July 4, 2025 (AoE) July 8, 2025 (AoE)2: Submission deadline\nJune 29 July 21, 2025: Author notification\nJuly 30, 2025: Deadline for the camera-ready version of workshop papers to be included in the ACM DL\n(TBD) October 12 or 13, 2015: Full-day Workshop."
+  },
+  {
+    "objectID": "cfp.html#important-links",
+    "href": "cfp.html#important-links",
+    "title": "Call for Papers",
+    "section": "Important links",
+    "text": "Important links\nDataset paper describes the methodology and the research protocol.\nData catalog lists all available data.\nDataset request form to send the research proposal and to request copy of the datasets.\nDataset webpage summarizes the key information about the data.\nConference webpage UbiComp / ISWC 2025\nSubmission website, select Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge."
+  },
+  {
+    "objectID": "cfp.html#the-dataset",
+    "href": "cfp.html#the-dataset",
+    "title": "Call for Papers",
+    "section": "The dataset",
+    "text": "The dataset\nTo participate, you are expected to use the DiversityOne dataset. This dataset is the result of the large-scale European project “WeNet - The Internet of US”. The dataset paper describes in detail the dataset together with the data collection methodology and statistics. contains data from college students in eight countries: China, Denmark, India, Italy, Mexico, Mongolia, Paraguay, and the United Kingdom. The study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR).\nThe dataset contains questionnaire answers from over 18K students, 782 of whom agreed to participate in a longitudinal survey of four weeks. The study used the iLog app to collect data from smartphone sensors such as accelerometer, gyroscope, and GPS, as well as derived information such as notification interactions, app usage, activities, and step counts. During this period, participants reported their activities, locations, social context, and mood, with daily reports on sleep quality and daily expectations.\nThe combination of sensor data and self-reported data across eight universities worldwide fosters research in ubiquitous computing, mobile sensing, machine learning, computational social science, and design with data. The dataset also opens the possibility for the design of new data-driven studies of diverse human behavior."
+  },
+  {
+    "objectID": "cfp.html#paper-submission",
+    "href": "cfp.html#paper-submission",
+    "title": "Call for Papers",
+    "section": "Paper submission",
+    "text": "Paper submission\nShort paper (max 4 pages, excluding references). The submitted works are expected to reflect on, analyze, or test the DiversityOne dataset. Submitted papers should report the work’s motivation, methodology, results, possible future analyses, and include an ethical statement describing potential societal impact.\nThe paper should follow the UbiComp/ISWC template and guideline. All papers and any supplementary material must be anonymized. Each submission will be reviewed by two reviewers from a panel of experts. All authors are asked to adhere to the Accessible Submission Guidelines.\nAll accepted publications will be published on the ACM Digital Library as part of the UbiComp 2025 proceedings. At least one author of each accepted paper needs to register for the workshop. During the workshop, each paper will be presented by one of the authors. We are exploring with the conference and workshop chairs the possibility of supporting video/remote presentations and reduced rates for authors unable to travel to the conference to promote diversity and facilitate participation."
+  },
+  {
+    "objectID": "cfp.html#paper-presentation",
+    "href": "cfp.html#paper-presentation",
+    "title": "Call for Papers",
+    "section": "Paper presentation",
+    "text": "Paper presentation\nThe authors of the accepted paper will be invited to present their work during the workshop. The presentation timing will be defined based on the number of submissions (tentatively, the presentation will be around 10 minutes, with 5 minutes for Q/A and discussion, in which we encourage participants to exchange ideas and approaches). The final timing will be communicated before the workshop."
+  },
+  {
+    "objectID": "cfp.html#paper-awards",
+    "href": "cfp.html#paper-awards",
+    "title": "Call for Papers",
+    "section": "Paper Awards",
+    "text": "Paper Awards\nPapers will receive a special mention during the workshop in the form of a best paper award and a best paper runner-up award. The evaluation will be made by a committee based on the following criteria:\n\ncreativity: how original or novel the analysis is;\nmultidisciplinary: how well it combines ideas and approaches from multiple disciplines;\npresentation: how clear the presentation is and how well written the paper is;\nimpact: how likely is it that the work can lead to impactful results if the paper is further extended."
+  },
+  {
+    "objectID": "cfp.html#extended-version-in-journal",
+    "href": "cfp.html#extended-version-in-journal",
+    "title": "Call for Papers",
+    "section": "Extended version in journal",
+    "text": "Extended version in journal\nA selection of the accepted papers will be invited to submit an extended version to IEEE Pervasive Computing."
+  },
+  {
+    "objectID": "cfp.html#how-to-get-the-datasets",
+    "href": "cfp.html#how-to-get-the-datasets",
+    "title": "Call for Papers",
+    "section": "How to get the datasets",
+    "text": "How to get the datasets\n\nNavigate the data catalog. The catalog is available on the data catalog. Please look at the available datasets and documentation. The catalog contains\n\nbasic datasets (e.g., one single modality such as accelerometer or annotations for one university)\ndataset bundles of basic sensors (e.g., motion sensors grouping accelerometer and step counter) split by data collection location.\nprojects grouping all data of one single university.\n\nAny composition of bundle, datasets and university project can be requested coherently with your research proposal.\nProposal submission. All authors must submit a data download request through the web form that will be made available from April 3, 2025 by providing the following information:\n\nNames and contact information of the authors working on the dataset and their institution.\nDescription of the research proposal. Provide a description of your idea and how you plan to use the dataset.\nSelect from a list the datasets to download. On the data catalog, you can find and navigate the list of downloadable datasets and navigate the codebooks.\n\nThe key requirements to obtain a copy of the data are the affiliation with a research institution, either private or public, the coherence between the requested data and the research proposal, and the acceptance of the Terms and License Agreement. Key licensing terms include:\n\ndatasets are used exclusively for research purposes;\nredistribution of the datasets is prohibited;\ndatasets cannot be publicly shared (e.g., on a website);\nany attempt to reverse engineer any portion of the data or to re-identify the participants is strictly forbidden and could constitute unlawful processing of personal data.\n\nDataset download. The proposal request is evaluated by the University of Trento (UNITN), and in case of a positive response, the participants receive an email with the instructions for downloading the dataset after a few days. The requested data are shared with the participants through dedicated storage."
+  },
+  {
+    "objectID": "cfp.html#contacts",
+    "href": "cfp.html#contacts",
+    "title": "Call for Papers",
+    "section": "Contacts",
+    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
+  },
+  {
+    "objectID": "cfp.html#examples-of-previous-studies",
+    "href": "cfp.html#examples-of-previous-studies",
+    "title": "Call for Papers",
+    "section": "Examples of previous studies",
+    "text": "Examples of previous studies\nPrevious studies investigated various aspects of high-quality rich datasets that include sensor data and self-reports. Some examples are (for papers based on DiversityOne, we list the sensor modalities used):\n\nthe use of social media (Giunchiglia et al. 2018)\nDatasets: the authors used the SmartUnitn2 dataset, which has the same modalities and variables as DiversityOne: time diaries, application usage, screen status.\nthe quality of answers and mislabeling (Bontempelli et al. 2020)\nDatasets: authors used SmartUnitn2 dataset, a similar dataset. The corresponding input modalities in DiversityOne are time diaries, acceleration, screen status, airplane mode, gyroscope, ring mode, battery charge, battery level, magnetic field, doze modality, headset plugged in, music playback, location, WiFi network connected to, proximity, WiFi networks available, Bluetooth, running application, notifications, atmospheric pressure (the following modalities are not available in DiversityOne: linear acceleration, gravity, rotation vector, orientation, temperature, humidity, detect incoming and outgoing calls, detect incoming and outgoing SMS).\nthe usefulness of self-reports towards understanding the user’s subjective perspective of the local context (Zhang et al. 2021);\nDatasets: SmartUnitn2 dataset. The corresponding input modalities in DiversityOne are time diaries, acceleration, screen status, airplane mode, gyroscope, ring mode, battery charge, battery level, magnetic field, doze modality, headset plugged in, music playback, activity performed (Google Activity Recognition API), location, WiFi network connected to, proximity, WiFi networks available, Bluetooth, notifications, atmospheric pressure (the following modalities are not available in DiversityOne: linear acceleration, gravity, rotation vector, orientation, temperature, humidity).\nthe impact of COVID on the students’ lives (Girardini et al. 2023)\nDatasets: the authors relied on SmartUnitn2 dataset and DiversityOne in Italy: time diaries.\ncross-individual activity recognition (Shen et al. 2022);\nmood inference (Meegahapola et al. 2023)\nDatasets: for all countries: location, Bluetooth, WiFi, cellular, notifications, proximity, activity steps, screen events, user presence, touch events, app events, time diaries.\ndiversity perceptions in a community (Kun et al. 2022);\nactivity recognition (Bouton-Bessac et al. 2022)\nDatasets: accelerometer and time diaries data of Denmark, UK, Mongolia, Paraguay and Italy.\nsocial context inference while eating (Kammoun et al. 2023)\nDatasets: for all countries activity type, step count, location, phone signal, WiFi, Bluetooth, battery, and proximity, notifications, application usage, screen episodes user presence and time diaries.\ninferring mood-while-eating (Bangamuarachchi et al. 2025)\nDatasets: for all countries: location, Bluetooth, WiFi, cellular, notifications, proximity, activity, steps detector, step counter, screen events, user presence, touch events, app events, time diaries.\nthe generation of contextually rich data with other reference datasets (Giunchiglia and Li 2024).\nDatasets: authors used SmartUnitn2 dataset, a similar dataset. The corresponding input modalities in DiversityOne are location and time diaries.\n\n\nReferences\n\n\nBangamuarachchi, Wageesha, Anju Chamantha, Lakmal Meegahapola, et al. 2025. “Inferring Mood-While-Eating with Smartphone Sensing and Community-Based Model Personalization.” ACM Transactions on Computing for Healthcare (HEALTH). https://arxiv.org/abs/2306.00723.\n\n\nBontempelli, Andrea, Stefano Teso, Fausto Giunchiglia, and Andrea Passerini. 2020. “Learning in the Wild with Incremental Skeptical Gaussian Processes.” IJCAI. https://www.ijcai.org/proceedings/2020/0399.pdf.\n\n\nBouton-Bessac, Emma, Lakmal Meegahapola, and Daniel Gatica-Perez. 2022. “Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers.” International Conference on Pervasive Computing Technologies for Healthcare, 247–58. https://www.idiap.ch/\\~gatica/publications/BoutonBessacEtAl-ph22.pdf.\n\n\nGirardini, Nicolò Alessandro, Simone Centellegher, Andrea Passerini, Ivano Bison, Fausto Giunchiglia, and Bruno Lepri. 2023. “Adaptation of Student Behavioural Routines During Covid-19: A Multimodal Approach.” EPJ Data Science 12 (1): 55. https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_429/13688_2023_Article_429.html.\n\n\nGiunchiglia, Fausto, and Xiaoyue Li. 2024. “Big-Thick Data Generation via Reference and Personal Context Unification.” In ECAI 2024. IOS Press. https://ebooks.iospress.nl/doi/10.3233/FAIA240713.\n\n\nGiunchiglia, Fausto, Mattia Zeni, Elisa Gobbi, Enrico Bignotti, and Ivano Bison. 2018. “Mobile Social Media Usage and Academic Performance.” Computers in Human Behavior 82: 177–85. https://arxiv.org/abs/2004.01392.\n\n\nKammoun, Nathan, Lakmal Meegahapola, and Daniel Gatica-Perez. 2023. “Understanding the Social Context of Eating with Multimodal Smartphone Sensing: The Role of Country Diversity.” Proceedings of the 25th International Conference on Multimodal Interaction, 604–12. https://arxiv.org/abs/2306.00709.\n\n\nKun, Peter, Amalia de Götzen, Miriam Bidoglia, Niels Jørgen Gommesen, and George Gaskell. 2022. “Exploring Diversity Perceptions in a Community Through a q&a Chatbot.” DRS2022: Bilbao Design Research Society, 1–19. https://arxiv.org/abs/2402.08558.\n\n\nMeegahapola, Lakmal, William Droz, Peter Kun, et al. 2023. “Generalization and Personalization of Mobile Sensing-Based Mood Inference Models: An Analysis of College Students in Eight Countries.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6 (4): 1–32. https://arxiv.org/abs/2211.03009.\n\n\nShen, Qiang, Haotian Feng, Rui Song, et al. 2022. “Federated Multi-Task Attention for Cross-Individual Human Activity Recognition.” IJCAI, 3423–29. https://www.ijcai.org/proceedings/2022/0475.pdf.\n\n\nZhang, Wanyi, Qiang Shen, Stefano Teso, et al. 2021. “Putting Human Behavior Predictability in Context.” EPJ Data Science 10 (1): 42. https://epjds.epj.org/articles/epjdata/abs/2021/01/13688_2021_Article_299/13688_2021_Article_299.html."
+  },
+  {
+    "objectID": "cfp.html#footnotes",
+    "href": "cfp.html#footnotes",
+    "title": "Call for Papers",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe data requests will be received starting from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.↩︎\nGiven the requests received, we extended the deadline by an additional four days↩︎"
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "D1 @ UbiComp 2026",
+    "section": "",
+    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
+  },
+  {
+    "objectID": "organizers.html#organizing-committee",
+    "href": "organizers.html#organizing-committee",
+    "title": "D1 @ UbiComp 2026",
+    "section": "",
+    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
+  },
+  {
+    "objectID": "organizers.html#technical-support",
+    "href": "organizers.html#technical-support",
+    "title": "D1 @ UbiComp 2026",
+    "section": "Technical Support",
+    "text": "Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
+  },
+  {
+    "objectID": "pcmembers.html",
+    "href": "pcmembers.html",
+    "title": "Program Committee",
+    "section": "",
+    "text": "TBD\n\n\n\n Back to top"
+  }
+]
