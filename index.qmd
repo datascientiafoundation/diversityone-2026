@@ -34,13 +34,13 @@ include-in-header:
 ---
 
 
-![](img/banner_low.jpeg){width=100% fig-alt="A banner containing name, date and location of the workshop."}
+<!-- ![](img/banner_low.jpeg){width=100% fig-alt="A banner containing name, date and location of the workshop."} -->
 
 <br/>
 <br/>
 
 ::: {style="text-align: center"}
-## DiversityOne Open Challenge at UbiComp/ISWC 2025
+## DiversityOne Open Challenge at UbiComp/ISWC 2026
 ### Exploring Diversity in People’s Everyday Life Behavior with Mobile Data
 :::
 
@@ -56,9 +56,9 @@ include-in-header:
 :::
 
 ::: {.g-col-11}
-October 12-13, 2025
+October 13-15, 2026
 
-Espoo, Finland
+Shanghai, China.
 :::
 :::
 
@@ -85,17 +85,17 @@ The study followed ethical approval procedures in each of the participating inst
 - ...
 
 This challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. 
-A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**. The [workshop proposal](https://doi.org/10.5281/zenodo.16539804) is also available.
+<!-- A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**. The [workshop proposal](https://doi.org/10.5281/zenodo.16539804) is also available. -->
 
 
 <br/>
 
 
 
-::: {style="text-align: center"}
+<!-- ::: {style="text-align: center"}
   <a href="cfp.qmd" class="btn btn-secondary"> Call for papers</a>
 :::
-
+ -->
 
 
 
@@ -103,16 +103,7 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ## News
 
-- **Dec, 29, 2025** - The [papers](papers.qmd) have been published in the UbiComp Companion.
-- **Sep, 29, 2025** - The workshop [program](program.qmd) is out.
-- **July 22, 2025** - The [list of accepted papers](papers.qmd) is out.
-- **July 05, 2025** - Given the requests received, the submission deadline has been extended to **July 8, 2025 (AoE)**.
-- **May 29, 2025** - _Extended submission deadline_: the new deadline is on **July 4, 2025 (AoE)**.
-- **May 20, 2025** - The submission link is <https://new.precisionconference.com/submissions> (Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
-- **April 14, 2025** - We've just released on [Github](https://github.com/datascientiafoundation/feature-engineering) the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.
-- **April 3, 2025**  - The link to submit the research proposal to request the datasets is available at **[{{< var link.request >}}]({{< var link.request >}})**.
-- **March 28, 2025** - We will start receiving the dataset requests from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.
-- **March 20, 2025** - This website is live.
+- **March 30, 2026** - This website is live.
 
 ## Contacts
 
@@ -124,7 +115,7 @@ the datasets, please do not hesitate to reach out to the organizers at
 
 
 
-::: {layout-ncol=6 layout-valign="center"}
+<!-- ::: {layout-ncol=6 layout-valign="center"}
 [![](img/logo/unitn.png)](http://unitn.it/){fig-alt="UNITN logo"}
 
 [![](img/logo/eth.svg)](https://ethz.ch/){fig-alt="ETH logo"}
@@ -136,4 +127,4 @@ the datasets, please do not hesitate to reach out to the organizers at
 [![](img/logo/epfl.svg)](https://www.epfl.ch/){fig-alt="EPFL logo"}
 
 [![](img/logo/ds.png)](https://datascientia.eu/){fig-alt="Datascientia logo"}
-:::
+::: -->

@@ -2,18 +2,5 @@
 title: Program Committee
 ---
 
-
-We are grateful to reviewers for their time and expertise in evaluating the workshop submissions.
-
-- **Michael Kizito**, Makerere University, Uganda
-- **Amarsanaa Ganbold**, National University of Mongolia, Mongolia
-- **Ronald Chenu Abente Acosta**, University of Trento, Italy
-- **Wanyi Zhang**, Chongqing University, China
-- **Qiang Shen**, China
-- **Biswanath Dutta**, Indian Statistical Institute Bangalore, India
-- **Jahna Otterbacher**, Open University of Cyprus, Cyprus
-- **Luca Cernuzzi**, Universidad Católica Nuestra Señora de la Asunción, Paraguay
-- **Shyam Diwakar**, Amrita University, India
-- **Salvador Ruiz Correa**,  Instituto Potosino de Investigación Científica y Tecnológica A.C, Mexico
-- **Marcelo Dario Rodas Britez**, FBK, Italy
+TBD
 

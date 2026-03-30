@@ -2,26 +2,26 @@ project:
   type: website
 
 website:
-  title: "D1 @ UbiComp 2025"
+  title: "D1 @ UbiComp 2026"
   back-to-top-navigation: true
   open-graph:
-    title: "DiversityOne @ UbiComp 2025"
+    title: "DiversityOne @ UbiComp 2026"
     description: "Join us for an exciting UbiComp workshop exploring the all-new DiversityOne dataset"
     image: img/banner_preview.jpeg
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: cfp.qmd
-        text: Call for Papers
-      - href: organizers.qmd
-        text: Organizers
-      - href: pcmembers.qmd
-        text: Program Committee
-      - href: program.qmd
-        text: Program
-      - href: papers.qmd
-        text: Accepted Papers
+      # - href: cfp.qmd
+      #   text: Call for Papers
+      # - href: organizers.qmd
+      #   text: Organizers
+      # - href: pcmembers.qmd
+      #   text: Program Committee
+      # - href: program.qmd
+      #   text: Program
+      # - href: papers.qmd
+      #   text: Accepted Papers
 
 
 #<p xmlns:cc="http://creativecommons.org/ns#" >This page is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 

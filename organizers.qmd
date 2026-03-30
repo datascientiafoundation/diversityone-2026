@@ -50,13 +50,6 @@ Lakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his P
 ![](img/amalia.jpg)
 :::
 
-::: {.g-col-8}
-[**Amalia de Götzen**](https://vbn.aau.dk/en/persons/ago) <br/>
-*Aalborg University*
-
-
-Amalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.
-:::
 
 ::: {.g-col-3}
 ![](img/fausto.png)
