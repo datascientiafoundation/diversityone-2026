@@ -1,5 +1,5 @@
 link:
-  catalog: https://livepeople.datascientia.eu/
+  # catalog: https://livepeople.datascientia.eu/
+  catalog: https://datascientiafoundation.github.io/LivePeople-ws/
   request: https://ds.datascientia.eu/marketplace/welcome
-
-request_date: April 3, 2025
+  conference: https://www.ubicomp.org/ubicomp-iswc-2026/

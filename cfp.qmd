@@ -4,66 +4,73 @@ page-layout: full
 bibliography: references.bib
 ---
 
-The open challenge aims to explore the *DiversityOne* dataset, one of
-the largest and most geographically diverse smartphone datasets about
-everyday life behavior. The dataset combines questionnaires about
-demographic and psychosocial variables from 18K participants, and
-passive smartphone sensor data and self-reported annotation from 782
-students across eight universities in eight countries.
+::: {.callout-tip}
+Stay tuned and keep an eye on our [News section](index.qmd#news) for the latest updates.
+:::
 
-This dataset is a rich and valuable research resource that can be used to address research
-questions in multiple fields: machine learning, mobile sensing,
-computational social science, design with data, and many others. The
-open challenge offers the opportunity to work on the dataset and gain
-useful feedback on your research.
+The open challenge aims to explore the *DiversityOne* dataset, one
+of the largest and most geographically diverse smartphone datasets
+about everyday life behavior. The dataset combines questionnaires
+about demographic and psychosocial variables from 18K participants, and passive smartphone sensor data and self-reported annotation from 782 students across eight universities in eight countries.
 
-We welcome contributions from researchers from *diverse backgrounds and geographical provenances*. In
-particular, we welcome contributions that address aspects including, but
-not limited to:
+This dataset is a rich and valuable research resource that can
+be used to address research questions in multiple fields: machine
+learning, mobile sensing, computational social science, design with
+data, and many others. The open challenge offers the opportunity
+to work on the dataset and gain useful feedback on your research.
 
--   **AI/ubiquitous computing/mobile sensing**
+We welcome contributions from researchers from *diverse backgrounds and geographical provenances*. In particular, we welcome
+contributions that address aspects including, but not limited to:
 
-    -   data-centric AI
-    -   interactive machine learning
-    -   noisy annotation detection and correction
-    -   domain adaptation
-    -   transfer learning
-    -   activity and mood recognition
-    -   responsible and ethical AI
+- **AI/ubiquitous computing/mobile sensing**
+    - data-centric AI
+    - interactive machine learning
+    - noisy annotation detection and correction
+    - domain adaptation
+    - transfer learning
+    - activity and mood recognition
+    - responsible and ethical AI
+    - Human daily mobility modeling and routine pattern discovery
+    - Spatio-temporal trajectory prediction
+    - ...
 
--   **Computational social science**
 
-    -   network analysis of social systems
-    -   sequence analysis of diary data
-    -   analysis of communities of practices
-    -   machine learning or rule-based analysis of social behavior
+- **Computational social science**
+    - network analysis of social systems
+    - sequence analysis of diary data
+    - analysis of communities of practices
+    - machine learning or rule-based analysis of social behavior
+    - social and affective computing
+    - ...
 
--   **Designing with data**
 
-    -   studies focusing on the design and documentation of the dataset
-        collection
-    -   studies focusing on the design affordances of the dataset
-    -   data-centric design
-    -   user-centered design
+- **Designing with data**
+    - studies focusing on the design and documentation of the dataset collection
+    - studies focusing on the design affordances of the dataset
+    - data-centric design
+    - user-centered design
+    - ...
+
+</br>
+
 
 ## Important dates
 
--   **From** _~~March 28, 2025~~_ **{{< var request_date >}}**^[The data requests will be received starting from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.]: Submit your research proposal using the [web form]({{< var link.request >}}) and
+-   **From now**: Submit your short research proposal using the [web form]({{< var link.request >}}) and
     request the datasets that you need to answer your research
     questions. Please specify that you are requesting the dataset to
     submit your work to the workshop. The full list of available
     datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
 
--   ~~June 8, 2025~~ **July 1, 2025**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_).
+-   **July 13, 2026**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2026_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2026 DiversityOne-Challenge_).
 
--   ~~June 15~~ ~~July 4, 2025 (AoE)~~ **July 8, 2025 (AoE)**^[Given the requests received, we extended the deadline by an additional four days]:  Submission deadline
+-   **July 15, 2026 (AoE)**: Submission deadline
 
--   ~~June 29~~ **July 21, 2025**: Author notification
+-   **July 27, 2026**: Author notification
 
--   **July 30, 2025**: Deadline for the camera-ready version of workshop
-    papers to be included in the ACM DL
+-   **July 31, 2026**: Deadline for the camera-ready version of workshop papers to be included in the ACM DL
 
--   (TBD) **October 12 or 13, 2015**: Full-day Workshop.
+-   (TBD) **October 11 or 12, 2026**: Full-day Workshop.
 
 ## Important links
 
@@ -73,11 +80,13 @@ not limited to:
 
 [**Dataset request form**]({{< var link.request >}}) to send the research proposal and to request copy of the datasets.
 
+[**Documentation**](https://datascientiafoundation.github.io/docs/LivePeople/catalog.html) provides information about how to navigate the catalog, tools and available code to process the dataset, and description of the sensors.
+
 [**Dataset webpage**](https://datascientia.eu/projects/diversityone/) summarizes the key information about the data.
 
-[**Conference webpage UbiComp / ISWC 2025**](https://www.ubicomp.org/ubicomp-iswc-2025/)
+[**Conference webpage UbiComp / ISWC 2026**]({{< var link.conference >}})
 
-[**Submission website**](https://new.precisionconference.com/submissions), select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2025_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2025 DiversityOne-Challenge_.
+[**Submission website**](https://new.precisionconference.com/submissions), select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2026_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2026 DiversityOne-Challenge_.
 
 ## The dataset
 
@@ -115,13 +124,13 @@ Submitted papers should report the work's motivation, methodology,
 results, possible future analyses, and include an ethical statement
 describing potential societal impact.
 
-The paper should follow the [UbiComp/ISWC template and guideline](https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/).
+The paper should be prepared following the 2-column template following the [IMWUT instructions](https://dl.acm.org/journal/imwut/author-guidelines).
 All papers and any supplementary material must be **anonymized**. Each
 submission will be reviewed by two reviewers from a panel of experts. All authors are asked
 to adhere to the [Accessible Submission Guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
 
 All accepted publications will be published on the ACM Digital Library
-as part of the UbiComp 2025 proceedings. At least one author of each
+as part of the UbiComp 2026 proceedings. At least one author of each
 accepted paper needs to register for the workshop. During the workshop,
 each paper will be presented by one of the authors. We are exploring
 with the conference and workshop chairs the possibility of supporting
@@ -154,8 +163,7 @@ be made by a committee based on the following criteria:
 
 ## Extended version in journal
 
-A selection of the accepted papers will be invited to submit an extended
-version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756).
+The most promising papers will be invited to submit an extended version [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756).
 
 ## How to get the datasets
 
@@ -170,12 +178,12 @@ version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssu
     Any composition of bundle, datasets and university project can be requested coherently with your research proposal.
 
 2.  **Proposal submission.** All authors must submit a data download
-    request through the web form that will be made available from _{{< var request_date >}}_ by providing the following information:
+    request through the [web form]({{< var link.request >}}) by providing the following information:
 
     -   Names and contact information of the authors working on the
         dataset and their institution.
-    -   Description of the research proposal. Provide a description of
-        your idea and how you plan to use the dataset.
+    -   Short description of the research proposal. Provide a short description of
+        your idea and how you plan to use the dataset. _Please specify that request is related to this challenge_.
     -   Select from a list the datasets to download. On the data
         catalog, you can find and navigate the list of downloadable
         datasets and navigate the codebooks.

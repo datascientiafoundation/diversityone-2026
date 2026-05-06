@@ -56,7 +56,7 @@ include-in-header:
 :::
 
 ::: {.g-col-11}
-October 13-15, 2026
+October 11-12, 2026
 
 Shanghai, China.
 :::
@@ -92,10 +92,10 @@ This challenge offers the opportunity to work on the dataset and gain helpful fe
 
 
 
-<!-- ::: {style="text-align: center"}
+::: {style="text-align: center"}
   <a href="cfp.qmd" class="btn btn-secondary"> Call for papers</a>
 :::
- -->
+
 
 
 
@@ -103,7 +103,7 @@ This challenge offers the opportunity to work on the dataset and gain helpful fe
 
 ## News
 
-- **March 30, 2026** - This website is live.
+- **May 6, 2026** - This website is live.
 
 ## Contacts
 

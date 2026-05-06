@@ -12,8 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: cfp.qmd
-      #   text: Call for Papers
+      - href: cfp.qmd
+        text: Call for Papers
       - href: organizers.qmd
         text: Organizers
       # - href: pcmembers.qmd
