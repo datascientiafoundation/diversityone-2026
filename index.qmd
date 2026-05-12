@@ -64,7 +64,7 @@ Shanghai, China.
 
 <br/>
 
-The first edition of the open challenge aims to explore the all-new [_DiversityOne_](https://datascientia.eu/projects/diversityone/) dataset, one of the larger and most **geographically diverse** datasets for **everyday life behavior** modeling.
+The open challenge aims to explore the all-new [_DiversityOne_](https://datascientia.eu/projects/diversityone/) dataset, one of the larger and most **geographically diverse** datasets for **everyday life behavior** modeling.
 
 Key dataset statistics:
 
