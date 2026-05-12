@@ -40,7 +40,7 @@ include-in-header:
 <br/>
 
 ::: {style="text-align: center"}
-## DiversityOne Open Challenge at UbiComp/ISWC 2026
+## The 2nd DiversityOne Open Challenge at UbiComp/ISWC 2026
 ### Exploring Diversity in People’s Everyday Life Behavior with Mobile Data
 :::
 
