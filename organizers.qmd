@@ -40,7 +40,7 @@ IEEE Internet Computing.
 :::
 
 ::: {.g-col-3}
-![](img/breeze.png)
+![](img/breeze.jpg)
 ::: 
 
 ::: {.g-col-8}
