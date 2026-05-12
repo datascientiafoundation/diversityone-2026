@@ -40,11 +40,11 @@ IEEE Internet Computing.
 :::
 
 ::: {.g-col-3}
-
+![](img/breeze.png)
 ::: 
 
 ::: {.g-col-8}
-[**Baiyu Chen (Breeze)**](https://orcid.org/0009-0000-8617-9635) <br/>
+[**Baiyu Chen (Breeze)**](https://baiyuchen.com) <br/>
 *University of New South Wales, Australia*
 
 Baiyu Chen (Breeze) is a PhD student at UNSW Sydney. He received his Master of Information Technology with Excellence from
