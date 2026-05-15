@@ -30,8 +30,8 @@ contributions that address aspects including, but not limited to:
     - transfer learning
     - activity and mood recognition
     - responsible and ethical AI
-    - Human daily mobility modeling and routine pattern discovery
-    - Spatio-temporal trajectory prediction
+    - human daily mobility modeling and routine pattern discovery
+    - spatio-temporal trajectory prediction
     - ...
 
 
