@@ -33,7 +33,7 @@ include-in-header:
 ---
 
 
-<!-- ![](img/banner_low.jpeg){width=100% fig-alt="A banner containing name, date and location of the workshop."} -->
+![](img/banner-slide2.png){width=100% fig-alt="A banner containing name, date and location of the workshop."}
 
 <br/>
 <br/>
