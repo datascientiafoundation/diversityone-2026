@@ -62,7 +62,7 @@ contributions that address aspects including, but not limited to:
     submit your work to the workshop. The full list of available
     datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
 
--   **July 13, 2026**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>, select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2026_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2026 DiversityOne-Challenge_).
+-   **July 13, 2026**: Abstract deadline. Submission platform: TBD
 
 -   **July 15, 2026 (AoE)**: Submission deadline
 
@@ -86,7 +86,7 @@ contributions that address aspects including, but not limited to:
 
 [**Conference webpage UbiComp / ISWC 2026**]({{< var link.conference >}})
 
-[**Submission website**](https://new.precisionconference.com/submissions), select Society: _SIGCHI_ &nbsp;>&nbsp; Conference: _Ubicomp/ISWC 2026_ &nbsp;>&nbsp; Track: _Ubicomp/ISWC 2026 DiversityOne-Challenge_.
+**Submission website**: TBD
 
 ## The dataset
 

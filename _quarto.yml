@@ -24,7 +24,7 @@ website:
       #   text: Accepted Papers
       - text: "Past editions"
         menu:
-          - text: "2025"
+          - text: "DiversityOne @ UbiComp 2025"
             href: https://datascientiafoundation.github.io/diversityone-2025/
 
 lang: en

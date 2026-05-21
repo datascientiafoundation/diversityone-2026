@@ -9,7 +9,7 @@ include-in-header:
       </style>
 ---
 
-## Program chairs
+## Organizers
 
 ::: {.grid}
 
@@ -54,8 +54,6 @@ assistants.
 
 :::
 :::
-
-## Steering committee
 
 ::: {.grid}
 
