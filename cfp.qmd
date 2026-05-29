@@ -80,7 +80,7 @@ contributions that address aspects including, but not limited to:
 
 [**Dataset request form**]({{< var link.request >}}) to send the research proposal and to request copy of the datasets.
 
-[**Documentation**](https://datascientiafoundation.github.io/docs/LivePeople/catalog.html) provides information about how to navigate the catalog, tools and available code to process the dataset, and description of the sensors.
+[**Documentation**](https://datascientiafoundation.github.io/docs/LivePeople/papers/diversityone.html) provides information about how to navigate the catalog, tools and available code to process the dataset, and description of the sensors.
 
 [**Dataset webpage**](https://datascientia.eu/projects/diversityone/) summarizes the key information about the data.
 
