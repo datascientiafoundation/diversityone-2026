@@ -62,7 +62,7 @@ contributions that address aspects including, but not limited to:
     submit your work to the workshop. The full list of available
     datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
 
--   **July 13, 2026**: Abstract deadline. Submission platform: TBD
+-   **July 13, 2026**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>. Go to the _Submissions_ tab, select DiversityOne Track in the boxes at the top (Society: _SIGCHI_  >  Conference: _Ubicomp/ISWC Workshop 2026_  >  Track: _Ubicomp/ISWC Workshop 2026 DiversityOne Challenge_), and click _Go_.
 
 -   **July 15, 2026 (AoE)**: Submission deadline
 
@@ -86,7 +86,7 @@ contributions that address aspects including, but not limited to:
 
 [**Conference webpage UbiComp / ISWC 2026**]({{< var link.conference >}})
 
-**Submission website**: TBD
+**Submission website**: <https://new.precisionconference.com/submissions>
 
 ## The dataset
 
@@ -200,7 +200,7 @@ The most promising papers will be invited to submit an extended version [IEEE Pe
         re-identify the participants is strictly forbidden and could
         constitute unlawful processing of personal data.
 
-2.  **Dataset download.** The proposal request is evaluated by the
+3.  **Dataset download.** The proposal request is evaluated by the
     University of Trento (UNITN), and in case of a positive response,
     the participants receive an email with the instructions for
     downloading the dataset after a few days. The requested data are
