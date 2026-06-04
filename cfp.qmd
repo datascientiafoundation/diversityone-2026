@@ -214,6 +214,8 @@ the datasets, please do not hesitate to reach out to the organizers at
 
 ## Examples of previous studies
 
+(See also the [submissions](https://datascientiafoundation.github.io/diversityone-2025/papers.html) of the previous edition.)
+
 Previous studies investigated various aspects of high-quality rich
 datasets that include sensor data and self-reports. Some examples are (for papers based on _DiversityOne_, we list the sensor modalities used):
 

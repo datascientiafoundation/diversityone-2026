@@ -111,9 +111,24 @@ For any questions related to the workshop or technical support regarding
 the datasets, please do not hesitate to reach out to the organizers at
 **datadistribution \[dot\] knowdive \[at\] unitn.it**.
 
-<br/>
 
+## Acknowledgments
 
+::: {.grid}
+
+::: {.g-col-2}
+![](img/logo/truman.png){fig-alt="UNITN logo"}
+:::
+
+::: {.g-col-2}
+![](img/logo/image1-1-300x266.png){fig-alt="Founded by the European Union"}
+:::
+
+::: {.g-col-8}
+_The workshop organization has received funding from the European Union’s Horizon 2020 Research and Innovation Programme, through the [TRUMAN project](https://truman-horizon.eu/), under Grant Agreement No. 101214000. The contents of this publication are the sole responsibility of the workshop organizers and do not necessarily reflect the opinion of the European Union._
+:::
+
+:::
 
 <!-- ::: {layout-ncol=6 layout-valign="center"}
 [![](img/logo/unitn.png)](http://unitn.it/){fig-alt="UNITN logo"}
