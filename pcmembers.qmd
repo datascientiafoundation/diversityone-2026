@@ -2,5 +2,18 @@
 title: Program Committee
 ---
 
-TBD
+We are grateful to reviewers for their time and expertise in evaluating the workshop submissions.
 
+- **Michael Kizito**, Makerere University, Uganda
+- **Amarsanaa Ganbold**, National University of Mongolia, Mongolia
+- **Qiang Shen**, China
+- **Biswanath Dutta**, Indian Statistical Institute Bangalore, India
+- **Salvador Ruiz Correa**,  Instituto Potosino de Investigación Científica y Tecnológica A.C, Mexico
+- **Alice Mugisha**, Makerere University, Uganda
+- **Leonardo Javier Malcotti**, University of Trento, Italy
+- **Davide Cavicchini**, University of Trento, Italy
+- **Katayoun Farrahi**, University of Southampton, United Kingdom
+- **Nouran Abdalazim**, Università della Svizzera italiana, Switzerland
+- **Trung-Thanh Phan**, Independent researcher, USA
+- **Tauhidur Rahman**, UC San Diego, USA
+- **Alice Zhang**, UT Austin, USA
