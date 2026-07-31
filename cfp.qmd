@@ -64,11 +64,11 @@ contributions that address aspects including, but not limited to:
 
 -   **July 13, 2026**: Abstract deadline. Submission platform: <https://new.precisionconference.com/submissions>. Go to the _Submissions_ tab, select DiversityOne Track in the boxes at the top (Society: _SIGCHI_  >  Conference: _Ubicomp/ISWC Workshop 2026_  >  Track: _Ubicomp/ISWC Workshop 2026 DiversityOne Challenge_), and click _Go_.
 
--   **July 15, 2026 (AoE)**: Submission deadline
+-   **July 15, 2026 23:59 AoE (Anywhere on Earth)**: Submission deadline
 
--   **July 27, 2026**: Author notification
+-   **~~July 27, 2026~~ July 30, 2026**: Author notification
 
--   **July 31, 2026**: Deadline for the camera-ready version of workshop papers to be included in the ACM DL
+-   **~~July 31, 2026~~**: Deadline for the camera-ready version of workshop papers to be included in the ACM DL
 
 -   (TBD) **October 11 or 12, 2026**: Full-day Workshop.
 

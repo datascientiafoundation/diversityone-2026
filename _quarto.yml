@@ -18,10 +18,10 @@ website:
         text: Organizers
       - href: pcmembers.qmd
         text: Program Committee
-      # - href: program.qmd
-      #   text: Program
-      # - href: papers.qmd
-      #   text: Accepted Papers
+      - href: program.qmd
+        text: Program
+      - href: papers.qmd
+        text: Accepted Papers
       - text: "Past editions"
         menu:
           - text: "DiversityOne @ UbiComp 2025"
