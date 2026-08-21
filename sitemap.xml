@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datascientiafoundation.github.io/diversityone-2026/cfp.html</loc>
-    <lastmod>2026-07-31T13:41:15.801Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascientiafoundation.github.io/diversityone-2026/index.html</loc>
-    <lastmod>2026-07-31T13:41:15.820Z</lastmod>
-  </url>
-  <url>
     <loc>https://datascientiafoundation.github.io/diversityone-2026/pcmembers.html</loc>
-    <lastmod>2026-07-31T13:41:15.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascientiafoundation.github.io/diversityone-2026/organizers.html</loc>
-    <lastmod>2026-07-31T13:41:15.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascientiafoundation.github.io/diversityone-2026/papers.html</loc>
-    <lastmod>2026-07-31T13:41:15.820Z</lastmod>
+    <lastmod>2026-08-21T14:17:00.187Z</lastmod>
   </url>
   <url>
     <loc>https://datascientiafoundation.github.io/diversityone-2026/program.html</loc>
-    <lastmod>2026-07-31T13:41:15.820Z</lastmod>
+    <lastmod>2026-08-21T14:17:00.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascientiafoundation.github.io/diversityone-2026/papers.html</loc>
+    <lastmod>2026-08-21T14:17:00.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascientiafoundation.github.io/diversityone-2026/organizers.html</loc>
+    <lastmod>2026-08-21T14:17:00.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascientiafoundation.github.io/diversityone-2026/index.html</loc>
+    <lastmod>2026-08-21T14:17:00.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascientiafoundation.github.io/diversityone-2026/cfp.html</loc>
+    <lastmod>2026-08-21T14:17:00.169Z</lastmod>
   </url>
 </urlset>
