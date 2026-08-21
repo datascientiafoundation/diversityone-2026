@@ -2,4 +2,14 @@
 title: Program
 ---
 
-Tentative date: October 11, morning
+Tentative date: October 11, Sunday  
+Room: TBD
+
+|Time (Shanghai local time)| Event|
+|---|------|
+| TBD |Opening and Welcome |
+| TBD |Paper presentations |
+| TBD |Open discussion |
+| TBD |Best papers awards, next steps and closing remarks |
+
+: {.striped .hover}

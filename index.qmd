@@ -102,6 +102,7 @@ This challenge offers the opportunity to work on the dataset and gain helpful fe
 
 ## News
 
+- **August 21, 2026** - The [list of accepted papers](papers.qmd) is out.
 - **June 4, 2026** - The submission platform is now available at <https://new.precisionconference.com/submissions>. Go to the _Submissions_ tab, select DiversityOne Track in the boxes at the top (Society: _SIGCHI_  >  Conference: _Ubicomp/ISWC Workshop 2026_  >  Track: _Ubicomp/ISWC Workshop 2026 DiversityOne Challenge_), and click _Go_.
 - **May 6, 2026** - This website is live.
 
