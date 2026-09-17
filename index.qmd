@@ -126,7 +126,7 @@ the datasets, please do not hesitate to reach out to the organizers at
 :::
 
 ::: {.g-col-8}
-_The workshop organization has received funding from the European Union’s Horizon 2020 Research and Innovation Programme, through the [TRUMAN project](https://truman-horizon.eu/), under Grant Agreement No. 101214000. The contents of this publication are the sole responsibility of the workshop organizers and do not necessarily reflect the opinion of the European Union._
+_The workshop organization has received funding from the European Union’s Horizon Europe Research and Innovation Programme, through the [TRUMAN project](https://truman-horizon.eu/), under Grant Agreement No. 101214000. The contents of this publication are the sole responsibility of the workshop organizers and do not necessarily reflect the opinion of the European Union._
 :::
 
 :::
