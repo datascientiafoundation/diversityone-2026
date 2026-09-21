@@ -15,7 +15,7 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 +======================+===============================================================+
 | 9:00–9:10            | **Opening** and **Welcome**                                   |
 +----------------------+---------------------------------------------------------------+
-| 9:10–9:40            | **Paper session** (10 min each, including Q&A)                |
+| 9:10–9:40            | **Paper session** (each paper: 7 min presentation, 3 min Q&A) |
 |                      |                                                               |
 |                      | 1. *Daily Routines, Sport Access, and Wellbeing: DiversityOne |
 |                      |    with a MIDUS Benchmark*                                    |
@@ -29,7 +29,7 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 +----------------------+---------------------------------------------------------------+
 | 10:30–11:00          | **Coffee break**                                              |
 +----------------------+---------------------------------------------------------------+
-| 11:00–11:30          | **Paper Session** (10 min each, including Q&A)                |
+| 11:00–11:30          | **Paper Session** (each paper: 7 min presentation, 3 min Q&A) |
 |                      |                                                               |
 |                      | 4. *Understanding Behavioral Dark Patterns of High BMI        |
 |                      |    Individuals*                                               |
@@ -38,7 +38,7 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 |                      | 6. *Smartphone Interaction Patterns and Momentary Mood:       |
 |                      |    Within-Person Evidence Across Eight Countries*             |
 +----------------------+---------------------------------------------------------------+
-| 11:30–12:20          | **Discussion** session                                        |
+| 11:30–12:20          | **Open discussion** with participants                         |
 +----------------------+---------------------------------------------------------------+
 | 12:20–12:30          | **Best paper award** and **closing remarks**                  |
 +----------------------+---------------------------------------------------------------+
