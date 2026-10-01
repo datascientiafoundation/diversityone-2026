@@ -7,13 +7,13 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 
 
 
-+----------------------+---------------------------------------------------------------+
+<!-- +----------------------+---------------------------------------------------------------+
 | Time (Shanghai       | Event                                                         |
 | local time)          |                                                               |
 +======================+===============================================================+
 | 9:00–9:10            | **Opening** and **Welcome**                                   |
-+----------------------+---------------------------------------------------------------+
-| 9:10–9:40            | **Paper Session** (each paper: 7 min presentation, 3 min Q&A) |
++----------------------+---------------------------------------------------------------------------------------------+
+| 9:10–9:40            | **Paper Session** (each paper: 7 min presentation, 3 min Q&A)                               |
 |                      |                                                               |
 |                      | 1. *Daily Routines, Sport Access, and Wellbeing: DiversityOne |
 |                      |    with a MIDUS Benchmark*                                    |
@@ -22,8 +22,8 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 |                      |    Signals Across Cities*                                     |
 |                      | 3. *Can Smartphone Sensing Safely Replace Time-Diary          |
 |                      |    Prompts?*                                                  |
-+----------------------+---------------------------------------------------------------+
-| 9:40–10:30           | **Keynote** (TBD)                                             |
++----------------------+---------------------------------------------------------------------------------------------+
+| 9:40–10:30           | **Keynote** (online): [Akane Sano (Rice University)](https://akanesano.rice.edu/) Title: TBD|
 +----------------------+---------------------------------------------------------------+
 | 10:30–11:00          | **Coffee break**                                              |
 +----------------------+---------------------------------------------------------------+
@@ -41,6 +41,17 @@ Room: 5i ([Ubicomp website](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-
 | 12:20–12:30          | **Closing remarks**                                           |
 +----------------------+---------------------------------------------------------------+
 
+: {.striped .hover} -->
+
+
+| Time (Shanghai local time) | Event |
+|---|:---|
+| 9:00–9:10 | **Opening & Welcome** |
+| 9:10–9:40 | **Paper Session** (each paper: 7 min presentation + 3 min Q&A)<br><br>**1.** *Daily Routines, Sport Access, and Wellbeing: DiversityOne with a MIDUS Benchmark*<br>**2.** *From Shared Corridors to Everyday Context: Linking DiversityOne GPS Mobility with Time-Diary Socio-Behavioral Signals Across Cities*<br>**3.** *Can Smartphone Sensing Safely Replace Time-Diary Prompts?* |
+| 9:40–10:30 | **Keynote** (Online)<br><br>[**Akane Sano** (Rice University)](https://akanesano.rice.edu/)<br>**Title:** TBD |
+| 10:30–11:00 | **Coffee Break** |
+| 11:00–11:30 | **Paper Session** (each paper: 7 min presentation + 3 min Q&A)<br><br>**4.** *Understanding Behavioral Dark Patterns of High BMI Individuals*<br>**5.** *Training-Free Few-Shot Personalization for Mobile Mood Inference with TabPFN*<br>**6.** *Smartphone Interaction Patterns and Momentary Mood: Within-Person Evidence Across Eight Countries* |
+| 11:30–12:20 | **Open discussion** with participants |
+| 12:20–12:30 | **Closing remarks** |
+
 : {.striped .hover}
-
-
