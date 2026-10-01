@@ -14,14 +14,14 @@ website:
         text: Home
       - href: cfp.qmd
         text: Call for Papers
-      - href: organizers.qmd
-        text: Organizers
-      - href: pcmembers.qmd
-        text: Program Committee
       - href: program.qmd
         text: Program
       - href: papers.qmd
         text: Accepted Papers
+      - href: organizers.qmd
+        text: Organizers
+      - href: pcmembers.qmd
+        text: Program Committee
       - text: "Past editions"
         menu:
           - text: "DiversityOne @ UbiComp 2025"
